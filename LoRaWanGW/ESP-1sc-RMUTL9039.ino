@@ -30,7 +30,7 @@
 
 void Line_Notify(String message) ;
 
-#define LINE_TOKEN "nHOj3o9PXeXhcABjGZ3hsFIbu3dpjGRM9GdjH8n7T4c" //ESPHome 
+#define LINE_TOKEN "xHOj3o9PXeXhcABjGZ3hsFIbu3dpjGRM9GdjH8n7T4c" //ESPHome 
 
 String message = "Hello world";
 
